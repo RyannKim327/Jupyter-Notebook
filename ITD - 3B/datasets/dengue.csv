@@ -1,0 +1,1021 @@
+﻿Month,Year,Region,Dengue_Cases,Dengue_Deaths
+January,2016,Region I,705,1
+February,2016,Region I,374,0
+March,2016,Region I,276,0
+April,2016,Region I,240,2
+May,2016,Region I,243,1
+June,2016,Region I,345,1
+July,2016,Region I,1295,2
+August,2016,Region I,1598,3
+September,2016,Region I,1415,3
+October,2016,Region I,1000,6
+November,2016,Region I,555,1
+December,2016,Region I,235,1
+January,2017,Region I,285,0
+February,2017,Region I,202,2
+March,2017,Region I,151,1
+April,2017,Region I,174,1
+May,2017,Region I,179,0
+June,2017,Region I,362,2
+July,2017,Region I,1032,2
+August,2017,Region I,1609,1
+September,2017,Region I,1333,3
+October,2017,Region I,1159,5
+November,2017,Region I,865,3
+December,2017,Region I,885,3
+January,2018,Region I,699,6
+February,2018,Region I,448,3
+March,2018,Region I,235,1
+April,2018,Region I,325,0
+May,2018,Region I,334,0
+June,2018,Region I,721,4
+July,2018,Region I,3374,13
+August,2018,Region I,3266,10
+September,2018,Region I,2221,8
+October,2018,Region I,1081,1
+November,2018,Region I,1285,1
+December,2018,Region I,1522,6
+January,2019,Region I,596,2
+February,2019,Region I,633,1
+March,2019,Region I,399,0
+April,2019,Region I,183,1
+May,2019,Region I,197,1
+June,2019,Region I,743,3
+July,2019,Region I,2587,9
+August,2019,Region I,4178,11
+September,2019,Region I,4814,9
+October,2019,Region I,2585,3
+November,2019,Region I,2133,2
+December,2019,Region I,819,0
+January,2020,Region I,424,1
+February,2020,Region I,442,2
+March,2020,Region I,352,5
+April,2020,Region I,46,2
+May,2020,Region I,87,0
+June,2020,Region I,186,2
+July,2020,Region I,452,2
+August,2020,Region I,1030,0
+September,2020,Region I,1052,2
+October,2020,Region I,807,1
+November,2020,Region I,1212,0
+December,2020,Region I,1081,1
+January,2016,Region II,659,2
+February,2016,Region II,408,2
+March,2016,Region II,211,0
+April,2016,Region II,138,0
+May,2016,Region II,126,0
+June,2016,Region II,126,1
+July,2016,Region II,390,1
+August,2016,Region II,754,0
+September,2016,Region II,552,1
+October,2016,Region II,292,3
+November,2016,Region II,181,1
+December,2016,Region II,54,0
+January,2017,Region II,265,1
+February,2017,Region II,112,1
+March,2017,Region II,130,0
+April,2017,Region II,112,2
+May,2017,Region II,129,1
+June,2017,Region II,260,0
+July,2017,Region II,639,1
+August,2017,Region II,819,7
+September,2017,Region II,668,3
+October,2017,Region II,990,12
+November,2017,Region II,678,4
+December,2017,Region II,508,2
+January,2018,Region II,418,2
+February,2018,Region II,267,0
+March,2018,Region II,234,2
+April,2018,Region II,238,1
+May,2018,Region II,276,0
+June,2018,Region II,573,3
+July,2018,Region II,1516,4
+August,2018,Region II,2518,6
+September,2018,Region II,3698,12
+October,2018,Region II,2921,10
+November,2018,Region II,2522,5
+December,2018,Region II,2497,17
+January,2019,Region II,1797,18
+February,2019,Region II,2136,3
+March,2019,Region II,1355,2
+April,2019,Region II,429,2
+May,2019,Region II,486,3
+June,2019,Region II,1171,3
+July,2019,Region II,1922,15
+August,2019,Region II,2446,12
+September,2019,Region II,2152,11
+October,2019,Region II,1202,3
+November,2019,Region II,957,5
+December,2019,Region II,581,0
+January,2020,Region II,324,4
+February,2020,Region II,436,0
+March,2020,Region II,117,0
+April,2020,Region II,18,0
+May,2020,Region II,17,0
+June,2020,Region II,30,0
+July,2020,Region II,54,0
+August,2020,Region II,108,2
+September,2020,Region II,109,1
+October,2020,Region II,158,2
+November,2020,Region II,161,0
+December,2020,Region II,96,0
+January,2016,Region III,1976,3
+February,2016,Region III,1748,5
+March,2016,Region III,883,3
+April,2016,Region III,549,0
+May,2016,Region III,365,0
+June,2016,Region III,363,0
+July,2016,Region III,1701,5
+August,2016,Region III,2877,8
+September,2016,Region III,3194,12
+October,2016,Region III,3155,11
+November,2016,Region III,2207,13
+December,2016,Region III,1971,5
+January,2017,Region III,2301,6
+February,2017,Region III,1264,9
+March,2017,Region III,1006,3
+April,2017,Region III,644,3
+May,2017,Region III,430,2
+June,2017,Region III,756,2
+July,2017,Region III,3263,6
+August,2017,Region III,4764,18
+September,2017,Region III,3263,9
+October,2017,Region III,2811,6
+November,2017,Region III,2310,7
+December,2017,Region III,2388,10
+January,2018,Region III,2497,5
+February,2018,Region III,1829,4
+March,2018,Region III,1237,3
+April,2018,Region III,724,1
+May,2018,Region III,695,2
+June,2018,Region III,1174,5
+July,2018,Region III,4576,19
+August,2018,Region III,5581,18
+September,2018,Region III,5026,12
+October,2018,Region III,3302,5
+November,2018,Region III,2859,7
+December,2018,Region III,2226,4
+January,2019,Region III,1813,4
+February,2019,Region III,1840,5
+March,2019,Region III,1230,3
+April,2019,Region III,460,1
+May,2019,Region III,428,1
+June,2019,Region III,1371,4
+July,2019,Region III,2228,18
+August,2019,Region III,6593,17
+September,2019,Region III,9713,121
+October,2019,Region III,5682,5
+November,2019,Region III,3003,4
+December,2019,Region III,2797,11
+January,2020,Region III,2859,6
+February,2020,Region III,3091,14
+March,2020,Region III,1404,4
+April,2020,Region III,207,0
+May,2020,Region III,201,0
+June,2020,Region III,280,3
+July,2020,Region III,698,12
+August,2020,Region III,1272,3
+September,2020,Region III,1073,3
+October,2020,Region III,1013,5
+November,2020,Region III,1731,1
+December,2020,Region III,2162,6
+January,2016,Region IV-A,2993,14
+February,2016,Region IV-A,2035,5
+March,2016,Region IV-A,1327,9
+April,2016,Region IV-A,838,1
+May,2016,Region IV-A,714,1
+June,2016,Region IV-A,778,4
+July,2016,Region IV-A,2270,6
+August,2016,Region IV-A,3218,2
+September,2016,Region IV-A,3454,28
+October,2016,Region IV-A,3175,20
+November,2016,Region IV-A,2023,10
+December,2016,Region IV-A,1457,8
+January,2017,Region IV-A,1764,14
+February,2017,Region IV-A,1243,5
+March,2017,Region IV-A,927,2
+April,2017,Region IV-A,647,0
+May,2017,Region IV-A,435,1
+June,2017,Region IV-A,815,5
+July,2017,Region IV-A,2727,5
+August,2017,Region IV-A,3121,17
+September,2017,Region IV-A,2520,6
+October,2017,Region IV-A,2759,20
+November,2017,Region IV-A,2635,21
+December,2017,Region IV-A,2828,14
+January,2018,Region IV-A,2457,17
+February,2018,Region IV-A,1975,9
+March,2018,Region IV-A,1494,10
+April,2018,Region IV-A,946,10
+May,2018,Region IV-A,675,4
+June,2018,Region IV-A,991,2
+July,2018,Region IV-A,2793,17
+August,2018,Region IV-A,3756,18
+September,2018,Region IV-A,4697,31
+October,2018,Region IV-A,3914,18
+November,2018,Region IV-A,3575,16
+December,2018,Region IV-A,3137,5
+January,2019,Region IV-A,2157,6
+February,2019,Region IV-A,3252,14
+March,2019,Region IV-A,2252,13
+April,2019,Region IV-A,892,3
+May,2019,Region IV-A,909,9
+June,2019,Region IV-A,2531,8
+July,2019,Region IV-A,6365,21
+August,2019,Region IV-A,15047,39
+September,2019,Region IV-A,21658,48
+October,2019,Region IV-A,10365,37
+November,2019,Region IV-A,5899,23
+December,2019,Region IV-A,4868,21
+January,2020,Region IV-A,3175,11
+February,2020,Region IV-A,2581,3
+March,2020,Region IV-A,1504,6
+April,2020,Region IV-A,151,0
+May,2020,Region IV-A,77,1
+June,2020,Region IV-A,105,0
+July,2020,Region IV-A,212,0
+August,2020,Region IV-A,291,1
+September,2020,Region IV-A,231,4
+October,2020,Region IV-A,325,2
+November,2020,Region IV-A,542,3
+December,2020,Region IV-A,527,4
+January,2016,Region IV-B,203,1
+February,2016,Region IV-B,219,0
+March,2016,Region IV-B,211,1
+April,2016,Region IV-B,181,2
+May,2016,Region IV-B,203,5
+June,2016,Region IV-B,263,0
+July,2016,Region IV-B,735,2
+August,2016,Region IV-B,778,3
+September,2016,Region IV-B,469,2
+October,2016,Region IV-B,388,1
+November,2016,Region IV-B,214,1
+December,2016,Region IV-B,135,0
+January,2017,Region IV-B,243,0
+February,2017,Region IV-B,255,0
+March,2017,Region IV-B,147,0
+April,2017,Region IV-B,69,1
+May,2017,Region IV-B,94,0
+June,2017,Region IV-B,232,0
+July,2017,Region IV-B,393,1
+August,2017,Region IV-B,412,1
+September,2017,Region IV-B,286,2
+October,2017,Region IV-B,247,5
+November,2017,Region IV-B,203,1
+December,2017,Region IV-B,189,1
+January,2018,Region IV-B,214,1
+February,2018,Region IV-B,277,2
+March,2018,Region IV-B,203,2
+April,2018,Region IV-B,198,2
+May,2018,Region IV-B,238,1
+June,2018,Region IV-B,471,2
+July,2018,Region IV-B,1650,6
+August,2018,Region IV-B,1489,17
+September,2018,Region IV-B,1582,12
+October,2018,Region IV-B,637,3
+November,2018,Region IV-B,470,1
+December,2018,Region IV-B,590,2
+January,2019,Region IV-B,435,3
+February,2019,Region IV-B,710,2
+March,2019,Region IV-B,799,2
+April,2019,Region IV-B,364,2
+May,2019,Region IV-B,248,0
+June,2019,Region IV-B,941,1
+July,2019,Region IV-B,1628,2
+August,2019,Region IV-B,2125,4
+September,2019,Region IV-B,1995,4
+October,2019,Region IV-B,710,4
+November,2019,Region IV-B,616,2
+December,2019,Region IV-B,413,0
+January,2020,Region IV-B,320,0
+February,2020,Region IV-B,607,2
+March,2020,Region IV-B,537,2
+April,2020,Region IV-B,77,0
+May,2020,Region IV-B,111,0
+June,2020,Region IV-B,196,0
+July,2020,Region IV-B,467,0
+August,2020,Region IV-B,1048,3
+September,2020,Region IV-B,694,1
+October,2020,Region IV-B,438,2
+November,2020,Region IV-B,390,13
+December,2020,Region IV-B,192,0
+January,2016,Region V,237,0
+February,2016,Region V,161,0
+March,2016,Region V,118,2
+April,2016,Region V,94,1
+May,2016,Region V,96,0
+June,2016,Region V,106,0
+July,2016,Region V,248,2
+August,2016,Region V,346,1
+September,2016,Region V,378,7
+October,2016,Region V,319,3
+November,2016,Region V,242,0
+December,2016,Region V,187,0
+January,2017,Region V,232,1
+February,2017,Region V,178,1
+March,2017,Region V,111,0
+April,2017,Region V,130,1
+May,2017,Region V,66,1
+June,2017,Region V,163,1
+July,2017,Region V,373,1
+August,2017,Region V,435,2
+September,2017,Region V,367,2
+October,2017,Region V,508,5
+November,2017,Region V,323,6
+December,2017,Region V,339,3
+January,2018,Region V,297,3
+February,2018,Region V,168,2
+March,2018,Region V,157,0
+April,2018,Region V,173,1
+May,2018,Region V,136,1
+June,2018,Region V,235,7
+July,2018,Region V,408,3
+August,2018,Region V,355,3
+September,2018,Region V,397,6
+October,2018,Region V,320,3
+November,2018,Region V,355,3
+December,2018,Region V,547,4
+January,2019,Region V,342,2
+February,2019,Region V,387,9
+March,2019,Region V,436,7
+April,2019,Region V,223,2
+May,2019,Region V,205,3
+June,2019,Region V,547,9
+July,2019,Region V,1371,10
+August,2019,Region V,2281,12
+September,2019,Region V,2846,16
+October,2019,Region V,1292,7
+November,2019,Region V,648,4
+December,2019,Region V,563,7
+January,2020,Region V,404,2
+February,2020,Region V,394,3
+March,2020,Region V,335,5
+April,2020,Region V,86,3
+May,2020,Region V,74,0
+June,2020,Region V,55,1
+July,2020,Region V,47,1
+August,2020,Region V,83,4
+September,2020,Region V,60,0
+October,2020,Region V,53,0
+November,2020,Region V,61,1
+December,2020,Region V,69,1
+January,2016,Region VI,971,1
+February,2016,Region VI,674,2
+March,2016,Region VI,596,1
+April,2016,Region VI,560,1
+May,2016,Region VI,782,3
+June,2016,Region VI,1137,4
+July,2016,Region VI,4993,17
+August,2016,Region VI,7155,22
+September,2016,Region VI,5039,16
+October,2016,Region VI,2562,12
+November,2016,Region VI,1058,5
+December,2016,Region VI,643,3
+January,2017,Region VI,727,5
+February,2017,Region VI,454,5
+March,2017,Region VI,336,2
+April,2017,Region VI,310,6
+May,2017,Region VI,346,3
+June,2017,Region VI,630,5
+July,2017,Region VI,1577,12
+August,2017,Region VI,2291,10
+September,2017,Region VI,686,648
+October,2017,Region VI,488,668
+November,2017,Region VI,627,8
+December,2017,Region VI,811,8
+January,2018,Region VI,755,3
+February,2018,Region VI,574,3
+March,2018,Region VI,456,6
+April,2018,Region VI,487,5
+May,2018,Region VI,545,2
+June,2018,Region VI,1017,13
+July,2018,Region VI,2701,15
+August,2018,Region VI,2639,16
+September,2018,Region VI,2846,21
+October,2018,Region VI,1903,9
+November,2018,Region VI,1724,9
+December,2018,Region VI,1935,7
+January,2019,Region VI,1426,10
+February,2019,Region VI,2003,8
+March,2019,Region VI,2262,19
+April,2019,Region VI,1199,7
+May,2019,Region VI,1386,9
+June,2019,Region VI,4859,31
+July,2019,Region VI,13564,48
+August,2019,Region VI,18090,54
+September,2019,Region VI,9048,32
+October,2019,Region VI,3475,8
+November,2019,Region VI,1881,4
+December,2019,Region VI,1164,3
+January,2020,Region VI,660,0
+February,2020,Region VI,784,1
+March,2020,Region VI,630,2
+April,2020,Region VI,167,0
+May,2020,Region VI,138,1
+June,2020,Region VI,272,1
+July,2020,Region VI,388,2
+August,2020,Region VI,473,4
+September,2020,Region VI,169,2
+October,2020,Region VI,115,1
+November,2020,Region VI,197,2
+December,2020,Region VI,138,0
+January,2016,Region VII,1690,10
+February,2016,Region VII,1175,7
+March,2016,Region VII,1220,5
+April,2016,Region VII,984,15
+May,2016,Region VII,916,7
+June,2016,Region VII,756,8
+July,2016,Region VII,2473,20
+August,2016,Region VII,4424,32
+September,2016,Region VII,4458,31
+October,2016,Region VII,4531,46
+November,2016,Region VII,3771,36
+December,2016,Region VII,2997,26
+January,2017,Region VII,2750,28
+February,2017,Region VII,1598,15
+March,2017,Region VII,1058,11
+April,2017,Region VII,750,16
+May,2017,Region VII,537,3
+June,2017,Region VII,718,6
+July,2017,Region VII,1234,9
+August,2017,Region VII,2647,10
+September,2017,Region VII,2570,492
+October,2017,Region VII,421,584
+November,2017,Region VII,691,6
+December,2017,Region VII,966,9
+January,2018,Region VII,659,4
+February,2018,Region VII,567,1
+March,2018,Region VII,478,7
+April,2018,Region VII,402,1
+May,2018,Region VII,328,5
+June,2018,Region VII,636,3
+July,2018,Region VII,1539,6
+August,2018,Region VII,2417,12
+September,2018,Region VII,2830,5
+October,2018,Region VII,3185,32
+November,2018,Region VII,4123,29
+December,2018,Region VII,4725,26
+January,2019,Region VII,2461,17
+February,2019,Region VII,2815,13
+March,2019,Region VII,1831,9
+April,2019,Region VII,571,4
+May,2019,Region VII,535,6
+June,2019,Region VII,1030,14
+July,2019,Region VII,2124,14
+August,2019,Region VII,3858,12
+September,2019,Region VII,5534,16
+October,2019,Region VII,3791,7
+November,2019,Region VII,2823,15
+December,2019,Region VII,3680,16
+January,2020,Region VII,3389,8
+February,2020,Region VII,3464,18
+March,2020,Region VII,2119,6
+April,2020,Region VII,578,2
+May,2020,Region VII,290,3
+June,2020,Region VII,252,2
+July,2020,Region VII,355,3
+August,2020,Region VII,626,5
+September,2020,Region VII,473,4
+October,2020,Region VII,350,0
+November,2020,Region VII,303,3
+December,2020,Region VII,207,0
+January,2016,Region VIII,469,4
+February,2016,Region VIII,376,1
+March,2016,Region VIII,273,2
+April,2016,Region VIII,217,0
+May,2016,Region VIII,364,3
+June,2016,Region VIII,426,11
+July,2016,Region VIII,921,7
+August,2016,Region VIII,839,7
+September,2016,Region VIII,575,4
+October,2016,Region VIII,421,0
+November,2016,Region VIII,278,0
+December,2016,Region VIII,229,3
+January,2017,Region VIII,620,3
+February,2017,Region VIII,438,0
+March,2017,Region VIII,323,1
+April,2017,Region VIII,356,1
+May,2017,Region VIII,220,2
+June,2017,Region VIII,236,2
+July,2017,Region VIII,433,2
+August,2017,Region VIII,417,0
+September,2017,Region VIII,198,147
+October,2017,Region VIII,144,236
+November,2017,Region VIII,191,2
+December,2017,Region VIII,340,2
+January,2018,Region VIII,485,2
+February,2018,Region VIII,313,4
+March,2018,Region VIII,241,4
+April,2018,Region VIII,270,1
+May,2018,Region VIII,325,1
+June,2018,Region VIII,503,4
+July,2018,Region VIII,813,6
+August,2018,Region VIII,1106,4
+September,2018,Region VIII,1315,6
+October,2018,Region VIII,1563,3
+November,2018,Region VIII,1781,11
+December,2018,Region VIII,2261,14
+January,2019,Region VIII,1000,5
+February,2019,Region VIII,1178,5
+March,2019,Region VIII,815,1
+April,2019,Region VIII,488,5
+May,2019,Region VIII,427,3
+June,2019,Region VIII,1031,4
+July,2019,Region VIII,3699,11
+August,2019,Region VIII,7557,19
+September,2019,Region VIII,6084,9
+October,2019,Region VIII,2634,4
+November,2019,Region VIII,1218,5
+December,2019,Region VIII,740,2
+January,2020,Region VIII,897,3
+February,2020,Region VIII,1500,3
+March,2020,Region VIII,1210,2
+April,2020,Region VIII,279,1
+May,2020,Region VIII,192,0
+June,2020,Region VIII,129,1
+July,2020,Region VIII,121,0
+August,2020,Region VIII,138,0
+September,2020,Region VIII,120,1
+October,2020,Region VIII,95,0
+November,2020,Region VIII,110,1
+December,2020,Region VIII,41,0
+January,2016,Region IX,596,2
+February,2016,Region IX,432,2
+March,2016,Region IX,414,1
+April,2016,Region IX,286,1
+May,2016,Region IX,451,3
+June,2016,Region IX,641,5
+July,2016,Region IX,1025,4
+August,2016,Region IX,1016,4
+September,2016,Region IX,693,4
+October,2016,Region IX,690,5
+November,2016,Region IX,520,6
+December,2016,Region IX,451,4
+January,2017,Region IX,527,4
+February,2017,Region IX,404,2
+March,2017,Region IX,261,1
+April,2017,Region IX,291,0
+May,2017,Region IX,293,1
+June,2017,Region IX,521,5
+July,2017,Region IX,882,5
+August,2017,Region IX,468,0
+September,2017,Region IX,115,116
+October,2017,Region IX,108,176
+November,2017,Region IX,196,2
+December,2017,Region IX,208,1
+January,2018,Region IX,299,3
+February,2018,Region IX,341,2
+March,2018,Region IX,288,3
+April,2018,Region IX,220,0
+May,2018,Region IX,315,2
+June,2018,Region IX,366,1
+July,2018,Region IX,754,5
+August,2018,Region IX,780,11
+September,2018,Region IX,658,4
+October,2018,Region IX,630,7
+November,2018,Region IX,700,11
+December,2018,Region IX,810,5
+January,2019,Region IX,775,7
+February,2019,Region IX,1003,5
+March,2019,Region IX,1105,10
+April,2019,Region IX,948,11
+May,2019,Region IX,1602,8
+June,2019,Region IX,3201,11
+July,2019,Region IX,7024,20
+August,2019,Region IX,4233,20
+September,2019,Region IX,3304,4
+October,2019,Region IX,1773,7
+November,2019,Region IX,1507,3
+December,2019,Region IX,972,2
+January,2020,Region IX,577,3
+February,2020,Region IX,593,3
+March,2020,Region IX,433,1
+April,2020,Region IX,115,2
+May,2020,Region IX,164,1
+June,2020,Region IX,124,1
+July,2020,Region IX,168,0
+August,2020,Region IX,213,1
+September,2020,Region IX,107,3
+October,2020,Region IX,79,0
+November,2020,Region IX,60,0
+December,2020,Region IX,51,1
+January,2016,Region X,1450,4
+February,2016,Region X,1184,3
+March,2016,Region X,944,2
+April,2016,Region X,768,3
+May,2016,Region X,825,4
+June,2016,Region X,973,4
+July,2016,Region X,2519,10
+August,2016,Region X,2897,11
+September,2016,Region X,2386,10
+October,2016,Region X,1794,10
+November,2016,Region X,1066,6
+December,2016,Region X,874,2
+January,2017,Region X,1097,4
+February,2017,Region X,600,2
+March,2017,Region X,482,4
+April,2017,Region X,451,2
+May,2017,Region X,356,2
+June,2017,Region X,451,1
+July,2017,Region X,686,3
+August,2017,Region X,1354,4
+September,2017,Region X,290,243
+October,2017,Region X,227,282
+November,2017,Region X,276,1
+December,2017,Region X,409,0
+January,2018,Region X,429,4
+February,2018,Region X,482,3
+March,2018,Region X,655,11
+April,2018,Region X,813,6
+May,2018,Region X,833,6
+June,2018,Region X,1535,10
+July,2018,Region X,3062,16
+August,2018,Region X,2856,11
+September,2018,Region X,3864,9
+October,2018,Region X,2341,7
+November,2018,Region X,3672,6
+December,2018,Region X,2955,12
+January,2019,Region X,1476,0
+February,2019,Region X,1710,6
+March,2019,Region X,1684,14
+April,2019,Region X,992,5
+May,2019,Region X,1184,3
+June,2019,Region X,2415,6
+July,2019,Region X,3893,19
+August,2019,Region X,4807,17
+September,2019,Region X,4406,13
+October,2019,Region X,2023,7
+November,2019,Region X,1897,2
+December,2019,Region X,1869,3
+January,2020,Region X,945,6
+February,2020,Region X,1150,3
+March,2020,Region X,966,3
+April,2020,Region X,323,4
+May,2020,Region X,330,0
+June,2020,Region X,309,0
+July,2020,Region X,465,3
+August,2020,Region X,597,4
+September,2020,Region X,357,3
+October,2020,Region X,221,5
+November,2020,Region X,281,3
+December,2020,Region X,281,1
+January,2016,Region XI,790,6
+February,2016,Region XI,711,3
+March,2016,Region XI,564,8
+April,2016,Region XI,557,4
+May,2016,Region XI,628,5
+June,2016,Region XI,1015,14
+July,2016,Region XI,2330,13
+August,2016,Region XI,2063,9
+September,2016,Region XI,1010,12
+October,2016,Region XI,1035,7
+November,2016,Region XI,749,9
+December,2016,Region XI,685,5
+January,2017,Region XI,847,10
+February,2017,Region XI,479,5
+March,2017,Region XI,304,2
+April,2017,Region XI,253,0
+May,2017,Region XI,233,1
+June,2017,Region XI,241,2
+July,2017,Region XI,411,3
+August,2017,Region XI,316,3
+September,2017,Region XI,153,109
+October,2017,Region XI,58,72
+November,2017,Region XI,94,0
+December,2017,Region XI,278,2
+January,2018,Region XI,234,0
+February,2018,Region XI,205,1
+March,2018,Region XI,191,0
+April,2018,Region XI,223,1
+May,2018,Region XI,228,1
+June,2018,Region XI,477,4
+July,2018,Region XI,783,5
+August,2018,Region XI,876,4
+September,2018,Region XI,792,2
+October,2018,Region XI,609,2
+November,2018,Region XI,742,1
+December,2018,Region XI,956,1
+January,2019,Region XI,627,0
+February,2019,Region XI,841,5
+March,2019,Region XI,806,2
+April,2019,Region XI,339,1
+May,2019,Region XI,257,0
+June,2019,Region XI,584,3
+July,2019,Region XI,1115,10
+August,2019,Region XI,1284,9
+September,2019,Region XI,1141,9
+October,2019,Region XI,534,4
+November,2019,Region XI,437,2
+December,2019,Region XI,501,1
+January,2020,Region XI,220,2
+February,2020,Region XI,312,0
+March,2020,Region XI,352,3
+April,2020,Region XI,80,0
+May,2020,Region XI,70,0
+June,2020,Region XI,51,0
+July,2020,Region XI,126,2
+August,2020,Region XI,185,3
+September,2020,Region XI,146,2
+October,2020,Region XI,113,1
+November,2020,Region XI,154,0
+December,2020,Region XI,127,0
+January,2016,Region XII,1231,9
+February,2016,Region XII,843,0
+March,2016,Region XII,666,4
+April,2016,Region XII,654,2
+May,2016,Region XII,730,3
+June,2016,Region XII,1260,5
+July,2016,Region XII,3251,15
+August,2016,Region XII,2582,11
+September,2016,Region XII,1083,1036
+October,2016,Region XII,928,1270
+November,2016,Region XII,1216,6
+December,2016,Region XII,1569,8
+January,2017,Region XII,1512,8
+February,2017,Region XII,1012,10
+March,2017,Region XII,968,3
+April,2017,Region XII,1070,4
+May,2017,Region XII,758,2
+June,2017,Region XII,806,2
+July,2017,Region XII,771,2
+August,2017,Region XII,733,1
+September,2017,Region XII,694,10
+October,2017,Region XII,549,2
+November,2017,Region XII,349,0
+December,2017,Region XII,391,2
+January,2018,Region XII,433,1
+February,2018,Region XII,378,1
+March,2018,Region XII,477,2
+April,2018,Region XII,476,1
+May,2018,Region XII,490,2
+June,2018,Region XII,850,8
+July,2018,Region XII,1195,5
+August,2018,Region XII,927,5
+September,2018,Region XII,1016,6
+October,2018,Region XII,927,5
+November,2018,Region XII,855,2
+December,2018,Region XII,1149,4
+January,2019,Region XII,978,2
+February,2019,Region XII,1588,3
+March,2019,Region XII,1658,12
+April,2019,Region XII,920,7
+May,2019,Region XII,1286,4
+June,2019,Region XII,2689,15
+July,2019,Region XII,3114,15
+August,2019,Region XII,3579,4
+September,2019,Region XII,2434,16
+October,2019,Region XII,1159,7
+November,2019,Region XII,753,2
+December,2019,Region XII,482,4
+January,2020,Region XII,423,4
+February,2020,Region XII,648,1
+March,2020,Region XII,703,2
+April,2020,Region XII,228,0
+May,2020,Region XII,316,5
+June,2020,Region XII,347,3
+July,2020,Region XII,621,3
+August,2020,Region XII,550,4
+September,2020,Region XII,136,117
+October,2020,Region XII,76,80
+November,2020,Region XII,117,27
+December,2020,Region XII,198,2
+January,2016,Region XIII,1116,6
+February,2016,Region XIII,679,3
+March,2016,Region XIII,569,3
+April,2016,Region XIII,420,1
+May,2016,Region XIII,566,2
+June,2016,Region XIII,615,2
+July,2016,Region XIII,897,2
+August,2016,Region XIII,851,9
+September,2016,Region XIII,331,308
+October,2016,Region XIII,277,481
+November,2016,Region XIII,396,1
+December,2016,Region XIII,498,6
+January,2017,Region XIII,537,4
+February,2017,Region XIII,290,1
+March,2017,Region XIII,461,2
+April,2017,Region XIII,207,0
+May,2017,Region XIII,155,0
+June,2017,Region XIII,168,0
+July,2017,Region XIII,186,1
+August,2017,Region XIII,216,4
+September,2017,Region XIII,184,0
+October,2017,Region XIII,258,1
+November,2017,Region XIII,119,1
+December,2017,Region XIII,207,0
+January,2018,Region XIII,269,0
+February,2018,Region XIII,314,1
+March,2018,Region XIII,188,0
+April,2018,Region XIII,216,2
+May,2018,Region XIII,221,1
+June,2018,Region XIII,400,0
+July,2018,Region XIII,849,6
+August,2018,Region XIII,803,3
+September,2018,Region XIII,1062,5
+October,2018,Region XIII,1060,5
+November,2018,Region XIII,1361,5
+December,2018,Region XIII,2310,14
+January,2019,Region XIII,2036,5
+February,2019,Region XIII,2047,7
+March,2019,Region XIII,1088,3
+April,2019,Region XIII,328,2
+May,2019,Region XIII,324,0
+June,2019,Region XIII,492,0
+July,2019,Region XIII,749,0
+August,2019,Region XIII,1132,2
+September,2019,Region XIII,1201,4
+October,2019,Region XIII,908,2
+November,2019,Region XIII,713,0
+December,2019,Region XIII,1036,2
+January,2020,Region XIII,938,5
+February,2020,Region XIII,1172,2
+March,2020,Region XIII,816,1
+April,2020,Region XIII,288,2
+May,2020,Region XIII,271,0
+June,2020,Region XIII,162,0
+July,2020,Region XIII,122,1
+August,2020,Region XIII,137,0
+September,2020,Region XIII,28,31
+October,2020,Region XIII,10,14
+November,2020,Region XIII,12,3
+December,2020,Region XIII,27,0
+January,2016,NCR,1261,4
+February,2016,NCR,999,7
+March,2016,NCR,730,3
+April,2016,NCR,448,2
+May,2016,NCR,414,0
+June,2016,NCR,406,0
+July,2016,NCR,1436,5
+August,2016,NCR,2291,6
+September,2016,NCR,1291,1291
+October,2016,NCR,1033,1651
+November,2016,NCR,1472,8
+December,2016,NCR,1221,10
+January,2017,NCR,1676,7
+February,2017,NCR,1161,4
+March,2017,NCR,930,4
+April,2017,NCR,767,6
+May,2017,NCR,543,4
+June,2017,NCR,1027,9
+July,2017,NCR,3139,20
+August,2017,NCR,4555,30
+September,2017,NCR,3783,32
+October,2017,NCR,3833,24
+November,2017,NCR,2588,13
+December,2017,NCR,2101,15
+January,2018,NCR,2043,12
+February,2018,NCR,1965,4
+March,2018,NCR,1160,5
+April,2018,NCR,897,6
+May,2018,NCR,603,2
+June,2018,NCR,832,6
+July,2018,NCR,2608,23
+August,2018,NCR,3323,14
+September,2018,NCR,5131,44
+October,2018,NCR,4472,32
+November,2018,NCR,3335,20
+December,2018,NCR,2831,12
+January,2019,NCR,2082,9
+February,2019,NCR,2348,9
+March,2019,NCR,1377,4
+April,2019,NCR,532,4
+May,2019,NCR,442,3
+June,2019,NCR,817,2
+July,2019,NCR,1839,14
+August,2019,NCR,5481,36
+September,2019,NCR,11033,58
+October,2019,NCR,6776,25
+November,2019,NCR,4494,11
+December,2019,NCR,3257,15
+January,2020,NCR,2328,10
+February,2020,NCR,1991,7
+March,2020,NCR,1032,3
+April,2020,NCR,99,0
+May,2020,NCR,65,0
+June,2020,NCR,57,0
+July,2020,NCR,112,0
+August,2020,NCR,158,1
+September,2020,NCR,131,134
+October,2020,NCR,129,185
+November,2020,NCR,423,139
+December,2020,NCR,658,4
+January,2016,CAR,579,4
+February,2016,CAR,276,1
+March,2016,CAR,191,0
+April,2016,CAR,226,1
+May,2016,CAR,504,0
+June,2016,CAR,1358,3
+July,2016,CAR,2769,10
+August,2016,CAR,2179,2
+September,2016,CAR,538,548
+October,2016,CAR,261,319
+November,2016,CAR,161,0
+December,2016,CAR,122,0
+January,2017,CAR,166,0
+February,2017,CAR,123,1
+March,2017,CAR,76,0
+April,2017,CAR,76,0
+May,2017,CAR,57,0
+June,2017,CAR,146,0
+July,2017,CAR,532,1
+August,2017,CAR,841,3
+September,2017,CAR,610,3
+October,2017,CAR,661,0
+November,2017,CAR,391,3
+December,2017,CAR,366,1
+January,2018,CAR,320,0
+February,2018,CAR,234,2
+March,2018,CAR,173,0
+April,2018,CAR,128,0
+May,2018,CAR,188,0
+June,2018,CAR,467,1
+July,2018,CAR,1330,1
+August,2018,CAR,1265,2
+September,2018,CAR,1221,2
+October,2018,CAR,915,0
+November,2018,CAR,649,0
+December,2018,CAR,694,0
+January,2019,CAR,470,2
+February,2019,CAR,694,2
+March,2019,CAR,398,0
+April,2019,CAR,163,0
+May,2019,CAR,187,1
+June,2019,CAR,547,1
+July,2019,CAR,1226,4
+August,2019,CAR,1536,6
+September,2019,CAR,1472,5
+October,2019,CAR,992,1
+November,2019,CAR,756,4
+December,2019,CAR,367,1
+January,2020,CAR,229,1
+February,2020,CAR,185,0
+March,2020,CAR,121,0
+April,2020,CAR,19,1
+May,2020,CAR,31,0
+June,2020,CAR,62,0
+July,2020,CAR,67,0
+August,2020,CAR,72,0
+September,2020,CAR,39,26
+October,2020,CAR,40,28
+November,2020,CAR,38,15
+December,2020,CAR,78,2
+January,2016,BARMM,126,2
+February,2016,BARMM,92,2
+March,2016,BARMM,107,3
+April,2016,BARMM,109,4
+May,2016,BARMM,165,4
+June,2016,BARMM,263,7
+July,2016,BARMM,491,2
+August,2016,BARMM,327,2
+September,2016,BARMM,124,105
+October,2016,BARMM,82,109
+November,2016,BARMM,143,1
+December,2016,BARMM,162,2
+January,2017,BARMM,74,0
+February,2017,BARMM,59,1
+March,2017,BARMM,25,0
+April,2017,BARMM,36,0
+May,2017,BARMM,22,0
+June,2017,BARMM,57,0
+July,2017,BARMM,62,0
+August,2017,BARMM,41,0
+September,2017,BARMM,33,1
+October,2017,BARMM,38,0
+November,2017,BARMM,17,0
+December,2017,BARMM,21,0
+January,2018,BARMM,149,2
+February,2018,BARMM,129,1
+March,2018,BARMM,77,2
+April,2018,BARMM,124,3
+May,2018,BARMM,164,1
+June,2018,BARMM,254,5
+July,2018,BARMM,412,3
+August,2018,BARMM,253,2
+September,2018,BARMM,261,0
+October,2018,BARMM,246,8
+November,2018,BARMM,183,4
+December,2018,BARMM,208,2
+January,2019,BARMM,201,2
+February,2019,BARMM,309,4
+March,2019,BARMM,303,2
+April,2019,BARMM,221,2
+May,2019,BARMM,284,2
+June,2019,BARMM,554,4
+July,2019,BARMM,772,2
+August,2019,BARMM,811,6
+September,2019,BARMM,807,2
+October,2019,BARMM,481,2
+November,2019,BARMM,362,0
+December,2019,BARMM,288,3
+January,2020,BARMM,212,1
+February,2020,BARMM,233,2
+March,2020,BARMM,207,2
+April,2020,BARMM,23,0
+May,2020,BARMM,27,0
+June,2020,BARMM,48,0
+July,2020,BARMM,100,0
+August,2020,BARMM,91,0
+September,2020,BARMM,16,8
+October,2020,BARMM,13,9
+November,2020,BARMM,15,1
+December,2020,BARMM,23,0
